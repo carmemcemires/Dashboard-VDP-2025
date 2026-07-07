@@ -23,8 +23,8 @@ from utils import (
 
 
 BASE_DIR = Path(__file__).parent
-DATA_PATH = BASE_DIR / "data" / "base_vdp_alece_2025_limpa.csv"
-LOGO_PATH = BASE_DIR / "assets" / "alece-logo-header.png"
+DATA_PATH = BASE_DIR / "base_vdp_alece_2025_limpa.csv"
+LOGO_PATH = BASE_DIR / "alece-logo-header.png"
 SOURCE_URL = "https://transparencia.al.ce.gov.br/despesas/verba-desempenho-parlamentar"
 Ato_URL = "https://transparencia.al.ce.gov.br/userfiles/files/vdp/2023-ato-deliberativo-n-929_1775043845.pdf"
 RESOLUCAO_URL = "https://transparencia.al.ce.gov.br/userfiles/files/vdp/resolucao-762-23-publicacao_1775043845.pdf"
