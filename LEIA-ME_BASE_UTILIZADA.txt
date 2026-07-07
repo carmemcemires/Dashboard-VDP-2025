@@ -1,0 +1,15 @@
+BASE FINAL UTILIZADA NO DASHBOARD
+
+Arquivo utilizado pela versao atual do dashboard:
+
+base_vdp_alece_2025_limpa.csv
+
+Caminho dentro do projeto:
+
+data/base_vdp_alece_2025_limpa.csv
+
+Observacao:
+O arquivo base_vdp_alece_2025_tratada.csv foi preservado como base anterior/intermediaria.
+A versao publicada do dashboard utiliza a base limpa, com nomes de deputados e credores
+padronizados, categorias de despesa, categorias de anulacao e campos auxiliares para filtros
+e visualizacoes.
